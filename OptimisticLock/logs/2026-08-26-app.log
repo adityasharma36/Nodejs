@@ -1,0 +1,46 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 10:49:00","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 10:49:00","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 10:51:41","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 10:51:41","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:53:12","correlationId":"40925456-2c4a-4152-ba5a-59335253ac73","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:53:12","correlationId":"40925456-2c4a-4152-ba5a-59335253ac73","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:53:51","correlationId":"5ca87837-22cb-4b80-b4f2-bf9698a22f3c","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:53:51","correlationId":"5ca87837-22cb-4b80-b4f2-bf9698a22f3c","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:54:44","correlationId":"e6979859-afdc-49d5-9a7a-e93f83caa4eb","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:54:44","correlationId":"e6979859-afdc-49d5-9a7a-e93f83caa4eb","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 10:55:36","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 10:55:36","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:55:48","correlationId":"25b7ae38-ba86-4653-94e6-8b2258c678d3","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:55:48","correlationId":"25b7ae38-ba86-4653-94e6-8b2258c678d3","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 10:56:33","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 10:56:33","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 10:58:08","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 10:58:08","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:58:27","correlationId":"2e95f098-f6f1-4388-b13c-3a109fc854fb","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:58:27","correlationId":"2e95f098-f6f1-4388-b13c-3a109fc854fb","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:59:46","correlationId":"bf37eeb0-9d5f-4c3d-8845-d0420670221e","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:59:46","correlationId":"bf37eeb0-9d5f-4c3d-8845-d0420670221e","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 10:59:58","correlationId":"3a20d0e9-0d76-43b5-bc62-7fc628e7c5a7","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 10:59:58","correlationId":"3a20d0e9-0d76-43b5-bc62-7fc628e7c5a7","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 11:00:12","correlationId":"25c9492e-5cb4-4b31-94c5-e2ebae844314","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 11:00:12","correlationId":"25c9492e-5cb4-4b31-94c5-e2ebae844314","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 11:00:16","correlationId":"7689d779-065c-43ca-9301-5cc972b72ccd","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 11:00:16","correlationId":"7689d779-065c-43ca-9301-5cc972b72ccd","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 11:41:57","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 11:41:57","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 12:03:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 12:03:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 12:03:06","correlationId":"eebc7e40-ae1c-4351-b2fd-4c0686621b3b","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 12:03:06","correlationId":"eebc7e40-ae1c-4351-b2fd-4c0686621b3b","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 12:04:01","correlationId":"03f9abd7-7f24-4247-9312-d62ab1e0aec7","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 12:04:01","correlationId":"03f9abd7-7f24-4247-9312-d62ab1e0aec7","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 12:04:42","correlationId":"a3d5feb7-e679-48f2-b8b5-4e21e10c49da","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 12:04:42","correlationId":"a3d5feb7-e679-48f2-b8b5-4e21e10c49da","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-26-2026 12:04:43","correlationId":"39566c45-9ff2-4816-b7ba-e75f2b5c00f0","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-26-2026 12:04:43","correlationId":"39566c45-9ff2-4816-b7ba-e75f2b5c00f0","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 12:09:15","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 12:09:15","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 12:09:35","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 12:09:35","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-26-2026 12:10:31","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-26-2026 12:10:31","correlationId":"unknown-error-while-creating-correlation-id","data":{}}

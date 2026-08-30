@@ -1,0 +1,180 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:22:05","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:22:05","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:24:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:24:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 07:26:10","correlationId":"74cc2315-5f92-4bce-88f8-953b131f5e04","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 07:26:10","correlationId":"74cc2315-5f92-4bce-88f8-953b131f5e04","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:22","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:22","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:30","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:30","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:38","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:38","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:43","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:43","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:47","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:47","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:27:52","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:27:52","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 07:27:53","correlationId":"daf49a88-884e-445c-9456-d5596e0aac04","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 07:27:53","correlationId":"daf49a88-884e-445c-9456-d5596e0aac04","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:28:52","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:28:52","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:32:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:32:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 07:32:07","correlationId":"f11e6650-184b-40ba-82b6-b815681e435d","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 07:32:07","correlationId":"f11e6650-184b-40ba-82b6-b815681e435d","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:33:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:33:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:35:38","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:35:38","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:38:05","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:38:05","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 07:38:12","correlationId":"af974b51-1b31-4d96-ac57-817ee527f885","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 07:38:12","correlationId":"af974b51-1b31-4d96-ac57-817ee527f885","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:40:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:40:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:40:55","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:40:55","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:41:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:41:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:41:10","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:41:10","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:42:29","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:42:29","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:42:31","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:42:31","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:42:34","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:42:34","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:42:37","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:42:37","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:42:39","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:42:39","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:42:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:42:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:43:13","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:43:13","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:43:44","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:43:44","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:45:48","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:45:48","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:45:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:45:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:46:01","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:46:01","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:46:45","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:46:45","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:46:48","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:46:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:46:52","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:46:52","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:55:35","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:55:35","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:56:54","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:56:54","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 07:57:11","correlationId":"4338fc42-70de-4fc0-b09a-17ecf2944e41","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 07:57:11","correlationId":"4338fc42-70de-4fc0-b09a-17ecf2944e41","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:58:14","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:58:14","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 07:58:17","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 07:58:17","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:07:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:07:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:10:25","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:10:25","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:11:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:11:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:12:16","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:12:16","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:12:19","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:12:19","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:12:25","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:12:25","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:12:27","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:12:27","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:12:30","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:12:30","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:16:32","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:16:32","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:02","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:02","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:12","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:12","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:14","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:14","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:19","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:19","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:37","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:37","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:53","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:53","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:17:56","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:17:56","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:18:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:18:51","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:09","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:09","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:15","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:15","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:17","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:17","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:21","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:21","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:26","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:26","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:31","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:31","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:36","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:36","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:44","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:44","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:50","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:50","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:54","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:54","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:19:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:19:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:20:04","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:20:04","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:25:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:25:49","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:48:38","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:48:38","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:48:54","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:48:54","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:48:56","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:48:56","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:48:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:48:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:03","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:08","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:08","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:14","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:14","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:20","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:20","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:22","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:22","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:25","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:25","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:49:29","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:49:29","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:49:52","correlationId":"80757982-d107-44d8-a416-3107f3d169b9","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:49:52","correlationId":"80757982-d107-44d8-a416-3107f3d169b9","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:49:57","correlationId":"3329dcfa-2929-4665-a548-91a61231f2e0","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:49:57","correlationId":"3329dcfa-2929-4665-a548-91a61231f2e0","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:50:22","correlationId":"7529d38e-03bf-4e1c-928d-155ce8087295","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:50:22","correlationId":"7529d38e-03bf-4e1c-928d-155ce8087295","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:50:27","correlationId":"abff292e-cccb-410b-96d3-dd495cfee080","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:50:27","correlationId":"abff292e-cccb-410b-96d3-dd495cfee080","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:51:48","correlationId":"2daa97d8-f4a4-4658-b41a-d7240c66d96f","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:51:48","correlationId":"2daa97d8-f4a4-4658-b41a-d7240c66d96f","data":{}}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"08-25-2026 08:52:05","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"08-25-2026 08:52:05","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:52:07","correlationId":"80575556-30f6-4f8d-bef7-13f224d92ed4","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:52:07","correlationId":"80575556-30f6-4f8d-bef7-13f224d92ed4","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"08-25-2026 08:52:13","correlationId":"e0a6e885-d882-4e79-a214-30d045dd1487","data":{}}
+{"level":"info","message":"Request body is valid","timestamp":"08-25-2026 08:52:13","correlationId":"e0a6e885-d882-4e79-a214-30d045dd1487","data":{}}
